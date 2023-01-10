@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yavuzcirit
 - 👀 I’m interested in frontend and backend technologies
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning best practices
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me yavuzcirit23@gmail.com
 
