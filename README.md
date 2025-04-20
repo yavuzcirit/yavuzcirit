@@ -15,7 +15,7 @@
 ### Tech Stack
 
 ```
-Frontend: HTML, CSS, JavaScript, React, Next, React Native
+Frontend: HTML, CSS, JavaScript, Typescript, React, Next, React Native
 Backend: Node.js, Express
 Other: Git, RESTful APIs
 ```
