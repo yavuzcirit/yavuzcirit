@@ -16,7 +16,7 @@
 
 ```
 Frontend: HTML, CSS, JavaScript, Typescript, React, Next, React Native
-Backend: Node.js, Express
+Backend: Node.js, Express, MVC, .NET
 Other: Git, RESTful APIs
 ```
 
