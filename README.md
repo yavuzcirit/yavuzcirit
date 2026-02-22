@@ -15,9 +15,9 @@
 ### Tech Stack
 
 ```
-Frontend: HTML, CSS, JavaScript, Typescript, React, Next, React Native
-Backend: Node.js, Express, MVC, .NET
-Other: Git, RESTful APIs
+Frontend: HTML, CSS, JavaScript, Typescript, React, Next, React Native, 
+Backend: Node.js, Express, Nest MVC, .NET
+Other: Git, RESTful APIs, postgreSQL, MongoDB
 ```
 
 ### Current Focus
